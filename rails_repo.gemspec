@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsRepo::VERSION
   s.authors     = ["Derek Pauley"]
   s.email       = ["droc37191@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsRepo."
-  s.description = "TODO: Description of RailsRepo."
+  s.homepage    = "devopcentral.com/projects/rails_repo"
+  s.summary     = "Service based data access"
+  s.description = "A plugin that provides Default Data Access Repositories and Services for Rails applications."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
